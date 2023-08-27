@@ -11,7 +11,7 @@ $ bash Run.sh
 </details>
 
 ## Full tutorial-nya?
-- Link video <code><a href="">klik disini</a></code>
+- Link video <code><a href="https://youtu.be/wmFD2yQu1zg?si=c2r2u4hHBUCD6L_y">klik disini</a></code>
 <div align="center">
 
 ### Terimakasih telah berkunjung😁
