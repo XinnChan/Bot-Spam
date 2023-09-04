@@ -24,3 +24,8 @@ Cara run script nya lagi :
 
 $ cd Bot-Spam
 $ bash Run.sh
+
+
+token
+
+__SubscribeYtJejakCyberGo1K:047ItcgrtM__
